@@ -16,7 +16,7 @@ Machine learning algorithms play a crucial role in heart disease prediction by l
 8. 	Gradient Boosting Classifier
 9. 	Stacking Classifier 
  
-Data Set Description
+## Data Set Description
 Heart failure is a common event caused by CVDs and this dataset contains 11 features that can be used to predict a possible heart disease.
 1. 	Age: age of the patient [years]
 2. 	Sex: sex of the patient [M: Male, F: Female]
